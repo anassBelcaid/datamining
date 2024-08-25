@@ -1,0 +1,54 @@
+# Site settings
+course_name: Data Mining 
+course_description: "Data mining is the process of discovering patterns, trends, and insights from large datasets using statistical and computational techniques. It involves data cleaning, integration, selection, and transformation to prepare data for analysis. Techniques such as clustering, classification, regression, and association rule learning are applied to uncover hidden relationships within the data. The course emphasizes practical applications and the use of software tools for real-world data analysis."
+course_semester: "Fall 2024"
+
+baseurl: "/datamining" # the subpath of your site, e.g. /blog/
+url: "http://anassBelcaid.github.io/" # the base hostname & protocol for your site
+
+schoolname: "National School of Applied Sciences"
+schoolurl: "https://ensa-tetouan.ac.ma/"
+twitter_username: anassbelcaid1
+
+address: |
+    National School of Applied Sciences-Tetouan
+    Tetouan
+    Morocco
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+
+

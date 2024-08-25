@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-09-16T8:00:00+4:30
-title: Introduction and Logistics
+date: 2018-09-16T8:00:00+4:30
+title: Sample Lecture
 tldr: "Introduction to the course and overview"
 thumbnail: /static_files/presentations/datamining_01.jpg
 links: 

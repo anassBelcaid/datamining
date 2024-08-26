@@ -1,5 +1,6 @@
 ---
-type: page
+# type: page
+layout : distill
 title: Data 
 author: A.Belcaid
 permalink: /data/
@@ -12,26 +13,26 @@ permalink: /data/
 
 
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Data Attributes](#data-attributes)
-  - [What is an attribute](#what-is-an-attribute)
-  - [Classification](#table)
-3. [Types of Datasets](#types-of-data-sets)
-  - [Continuous vs Discrete](#continuous-vs-discrete)
-  - [Characteristics of Data](#characteristics-of-data)
-  - [Record Data](#record-data)
-  - [Data Matrix](#data-matrix)
-  - [Document Data](#document-data)
-  - [Transaction Data](#transaction-data)
-  - [Graph Data](#graph-data)
-  - [Ordered Data](#ordered-data)
-
-4. [Data Quality](#data-quality)
-  - [Noise](#noise)
-  - [Outliers](#outliers)
-  - [Missing Values](#missing-values)
+<!-- ## Table of Contents -->
+<!---->
+<!-- 1. [Introduction](#introduction) -->
+<!-- 2. [Data Attributes](#data-attributes) -->
+<!--   - [What is an attribute](#what-is-an-attribute) -->
+<!--   - [Classification](#table) -->
+<!-- 3. [Types of Datasets](#types-of-data-sets) -->
+<!--   - [Continuous vs Discrete](#continuous-vs-discrete) -->
+<!--   - [Characteristics of Data](#characteristics-of-data) -->
+<!--   - [Record Data](#record-data) -->
+<!--   - [Data Matrix](#data-matrix) -->
+<!--   - [Document Data](#document-data) -->
+<!--   - [Transaction Data](#transaction-data) -->
+<!--   - [Graph Data](#graph-data) -->
+<!--   - [Ordered Data](#ordered-data) -->
+<!---->
+<!-- 4. [Data Quality](#data-quality) -->
+<!--   - [Noise](#noise) -->
+<!--   - [Outliers](#outliers) -->
+<!--   - [Missing Values](#missing-values) -->
 
 ## Introduction
 

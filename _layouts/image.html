@@ -1,0 +1,6 @@
+<div class="wp-caption {% if include.align %}align{{ include.align }}{% endif %}">
+  <img src="{{ include.src }}" alt="{{ include.alt }}" {% if include.width %}width="{{ include.width }}"{% endif %}>
+  {% if include.caption %}
+    <dd>{{ include.caption }}</dd>
+  {% endif %}
+</div>

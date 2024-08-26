@@ -180,3 +180,4 @@ Now it's your turn! Answer the following questions by modifying the code snippet
 5. Plot the distribution of the `GrLivArea` feature.
 
 Try modifying the code and observe how the visualizations and summaries change with different features. This will help you gain a deeper understanding of the dataset and the factors influencing house prices.
+

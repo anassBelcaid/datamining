@@ -9,7 +9,7 @@ thumbnail: /part1/data_mining_thumb.webp/
 links: 
     # - url: /overview/
     #   name: notes
-    - url: /presentations/presentation1/presentation1.pdf/
+    - url: /presentations/presentation1/presentation1.pdf
       name: slides
 ---
 **Suggested Readings:**

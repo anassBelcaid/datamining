@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-09
+date: 2024-10-22
 title: Data Similarity and Dissimilarity measures
 tldr: "Learn about some distances between the data and how to process the dat"
 thumbnail: '/part1/data_vis.webp'

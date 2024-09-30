@@ -7,7 +7,7 @@ attachment: /static_files/house-prices-advanced-regression-techniques.zip
 solutions: 
 due_event: 
     type: due
-    date: 2024-10-01T23:59:00+3:30
+    date: 2024-10-13T23:59:00+3:30
     description: 'Assignment #1 due'
 ---
 This is a sample assignment.

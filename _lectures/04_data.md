@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-01
+date: 2024-10-15
 title: Data and Preprocessing
 tldr: "How to represent data and preprocess it before starting any analysis."
 thumbnail: '/static_files/_images/data_preprocesing.webp'

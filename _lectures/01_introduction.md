@@ -11,6 +11,8 @@ links:
     #   name: notes
     - url: /presentations/presentation1/presentation1.pdf
       name: slides
+    - url : /part1/Data Mining Intro.pdf
+      name : students_notes
 ---
 **Suggested Readings:**
 - [What is Data Mining](https://bootcamp.rutgers.edu/blog/what-is-data-mining/)

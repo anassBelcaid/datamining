@@ -8,6 +8,8 @@ thumbnail: '/part1/python_thumb.webp'
 links: 
     - url: /python/
       name: notes
+    - url: /part1/Python_exercices.pdf
+      name: student_notes
 ---
 
 **Suggested Readings:**

@@ -6,7 +6,7 @@ tldr: "Learn about the details for decision trees"
 thumbnail: '/_images/decision-tree.jpg'
 
 links: 
-    - url: https://docs.google.com/presentation/d/1QlScoTJB6_o9Dr5x8uX4T2EovYwtsnpz/edit?usp=sharing&ouid=109099988662065390850&rtpof=true&sd=true
+    - url: https://docs.google.com/presentation/d/1QlScoTJB6_o9Dr5x8uX4T2EovYwtsnpz/edit#slide=id.p1
       name: slides
 ---
 

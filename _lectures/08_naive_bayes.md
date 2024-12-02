@@ -6,7 +6,7 @@ tldr: "naive Bayes"
 thumbnail: '/_images/naive_bayes'
 
 links: 
-    - url: /https://docs.google.com/presentation/d/10UviKqCuzXyNQ4BsCwn9XxoW4Eu2z7Lu/edit?usp=sharing&ouid=109099988662065390850&rtpof=true&sd=true/
+    - url: https://docs.google.com/presentation/d/10UviKqCuzXyNQ4BsCwn9XxoW4Eu2z7Lu/edit?usp=sharing&ouid=109099988662065390850&rtpof=true&sd=true/
       name: slides
 ---
 

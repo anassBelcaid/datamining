@@ -71,6 +71,7 @@ $on-laptop:        950px;
   width: 300px; /* Fixed width for each grid cell */
   height: 400px; /* Fixed height for each grid cell */
   border: 1px solid #ddd;
+  border-radius: 10px; /* Rounded corners */
   padding: 10px;
   text-align: center;
   display: flex;
@@ -78,6 +79,13 @@ $on-laptop:        950px;
   justify-content: space-between; /* Evenly space content vertically */
   align-items: center; /* Center align content horizontally */
   box-sizing: border-box; /* Include padding and border in width/height */
+  background-color: #f5faff; /* Light blue background */
+  transition: transform 0.2s, box-shadow 0.2s; /* Smooth animation for hover */
+}
+
+.project-cell:hover {
+  transform: translateY(-5px); /* Slight lift effect on hover */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
 }
 
 .project-cell img {
@@ -85,6 +93,7 @@ $on-laptop:        950px;
   max-height: 150px; /* Limit image height */
   object-fit: contain; /* Prevent image distortion */
   cursor: pointer;
+  border-radius: 5px; /* Slightly round image corners */
 }
 
 .project-cell ul {
@@ -97,4 +106,14 @@ $on-laptop:        950px;
   margin: 5px 0;
 }
 
+.project-cell h3 {
+  margin: 10px 0;
+  font-size: 1.2rem;
+  color: #333;
+}
 
+.project-cell p {
+  margin: 5px 0;
+  font-size: 1rem;
+  color: #555;
+}

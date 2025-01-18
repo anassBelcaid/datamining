@@ -60,3 +60,41 @@ $on-laptop:        950px;
 	    "fancy-image"
 ;
 
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Maximum 3 items per row */
+  gap: 20px; /* Spacing between grid items */
+  justify-items: center; /* Center align items horizontally */
+}
+
+.project-cell {
+  width: 300px; /* Fixed width for each grid cell */
+  height: 400px; /* Fixed height for each grid cell */
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column; /* Stack content vertically */
+  justify-content: space-between; /* Evenly space content vertically */
+  align-items: center; /* Center align content horizontally */
+  box-sizing: border-box; /* Include padding and border in width/height */
+}
+
+.project-cell img {
+  max-width: 100%;
+  max-height: 150px; /* Limit image height */
+  object-fit: contain; /* Prevent image distortion */
+  cursor: pointer;
+}
+
+.project-cell ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-cell li {
+  margin: 5px 0;
+}
+
+

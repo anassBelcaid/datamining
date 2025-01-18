@@ -1,0 +1,64 @@
+- name: Adult Income Classification
+  thumbnail: ../_images/student_projects/adult_income.png
+  report: https://drive.google.com/file/d/1a6m22920K4V3qnTCmEpjKDQUspafdSvt/view?usp=drive_link
+  # presentation1: /presentations/project1-p1.pdf
+  # presentation2: /presentations/project1-p2.pdf
+  students: [A.Sbah, H.Elharaqe, Z.Tahiri]
+- name: Client Satisfaction Classification 
+  thumbnail: ../_images/student_projects/client_satisfaction.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  # presentation1: /presentations/project2-p1.pdf
+  # presentation2: /presentations/project2-p2.pdf
+  students: [S.Souissi, H.Taghui]
+- name: Urbain Traffic Prediction
+  thumbnail: ../_images/student_projects/urbain_traffic_prediction.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [FZ.Ahannuk, M.Ayach]
+- name: Analyzing Bank Marketing Data
+  thumbnail: ../_images/student_projects/bank_marketing_data.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [I.Seghiour, C.Bensbeh, K.Chakkour]
+- name: Breast Cancer Wisconsin
+  thumbnail: ../_images/student_projects/breast_cancer.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [R.Adraou, N.Chaou, A.Afenich]
+- name: Predicting Click-Through Rates Using Machine Learning Models
+  thumbnail: ../_images/student_projects/click_through.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Amazal,Y.Lagnaoui,A.Aitbrahim]
+- name: Fifa DataSet Complete Player 2019 
+  thumbnail: ../_images/student_projects/fifa_player.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Chakour, H.Khayrane]
+- name: Google PlayStore Dataset
+  thumbnail: ../_images/student_projects/google_playstore.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Chakour, H.Khayrane]
+- name: Conversions in Numerical Marketing 
+  thumbnail: ../_images/student_projects/digital_marketing.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [M.Channa, A.Azaagag, Y.Adila]
+- name: Obesity Risk
+  thumbnail: ../_images/student_projects/obesity_risk.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Ettalbi, N.Amaziane, O.Biloul]
+- name: Rain in Austalia
+  thumbnail: ../_images/student_projects/rain_australia.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Qassiri, Y.Nadi, S.Jadli]
+- name: Diabetes Prediction
+  thumbnail: ../_images/student_projects/diabetes_prediction.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Elboulk, Z.Fezzaz, Y.Ech-chahlaoui]
+- name: Stroke Analysis
+  thumbnail: ../_images/student_projects/stroke_prediction.png
+  report:  https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [A.Hayoun, I.Rachidi]
+- name: Students Performance Factor
+  thumbnail: ../_images/student_projects/student_performance.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [FZ.El Khalfi, Y.El Alaoui]
+- name: Understanding Global Well-Being
+  thumbnail: ../_images/student_projects/well_being.png
+  report: https://drive.google.com/drive/u/1/folders/1-aFpSrFzoIOlSHnBDayp4rDr3CsY6zoA
+  students: [O.Enajjari, Kh.El Hajji]
